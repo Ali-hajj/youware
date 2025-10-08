@@ -2,7 +2,7 @@ import { APIResponse } from "../types";
 
 const API_CONFIG = {
   production: {
-    baseURL: "https://yourdomain.com/api",
+    baseURL: "https://stuntec.org/api",
   },
   staging: {
     baseURL: "https://staging.yourdomain.com/api",
